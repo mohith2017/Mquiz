@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MQuiz</string>
+    <string name="Pref_name1">Eng</string>
+    <string name="Pref_name3">Chem</string>
+    <string name="Pref_name5">Phy</string>
+    <string name="Pref_name4">Comp</string>
+    <string name="Pref_name2">Math</string>
+    <string name="Pref_name6">Bio</string>
+</resources>
